@@ -1,0 +1,12 @@
+{
+  "name": "sevnote_api",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.4.1",
+    "crontab": "^1.1.3",
+    "express": "3.x",
+    "fibers": "^1.0.15",
+    "moment": "^2.17.1"
+  }
+}

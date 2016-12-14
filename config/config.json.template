@@ -1,0 +1,38 @@
+{
+    "development": {
+        "app_port": 7600,
+        "api_version": "V1",
+        "service": "http://api.cabbage.com",
+        "api_domain": "http://127.0.0.1:6600",
+        "agent_port": 7700,
+        "redis": {
+            "host": "127.0.0.1",
+            "port": "6379",
+            "select": "8"
+        },
+        "mysql": {
+            "host": "host",
+            "user": "user",
+            "password": "password",
+            "database": "database"
+        }
+    },
+    "production": {
+        "app_port": 6500,
+        "api_version": "V1",
+        "service": "http://api.cabbage.com",
+        "api_domain": "http://127.0.0.1:6600",
+        "agent_port":7700,
+        "redis": {
+            "host": "127.0.0.1",
+            "port": "6379",
+            "select": "8"
+        },
+        "mysql": {
+            "host": "host".
+            "user": "user",
+            "password": "password",
+            "database": "database"
+        }
+    }
+}

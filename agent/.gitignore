@@ -1,0 +1,7 @@
+/config/config.json
+/mapping/*
+/node_module/*
+/script/*
+*.log
+*.sh
+*.bak

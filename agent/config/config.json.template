@@ -1,0 +1,12 @@
+{
+    "development": {
+        "app_port": 7700,
+        "api_version": "V1",
+        "service": "http://localhost:7600"
+    },
+    "production": {
+        "app_port": 6500,
+        "api_version": "V1",
+        "service": "http://localhost:7600"
+    }
+}
