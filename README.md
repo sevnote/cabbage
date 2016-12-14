@@ -25,4 +25,4 @@ node agent.js
 
 
 #UI
-![image](https://github.com/sevnote/cabbage/image/screenshot.jpg')
+![image]('https://raw.githubusercontent.com/sevnote/cabbage/master/image/screenshot.jpg')
