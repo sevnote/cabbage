@@ -24,5 +24,5 @@ or
 node agent.js
 
 
-#控制UI
-待开发
+#UI
+![image](https://github.com/sevnote/cabbage/image/screenshot.jpg')
