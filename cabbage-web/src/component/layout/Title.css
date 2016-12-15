@@ -1,0 +1,12 @@
+.c_title {
+  width:100%;
+  min-height:50px;
+  border-bottom:3px solid #ddd;
+  margin-top: 15px;
+}
+
+.c_title h1 {
+  display: inline-block;
+  text-indent:12px;
+  border-left: 6px solid #88b7e0;
+}
